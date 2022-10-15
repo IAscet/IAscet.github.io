@@ -1,0 +1,29 @@
+.btn{
+    background-image: linear-gradient(to right, #27B5FD , #933FFE);
+    border: 0ch;
+    border-radius: 10px;
+    width: 156px;
+    height: 56px;
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+    position: relative;
+    margin-top: 30px;
+    left: 24rem;
+}
+
+.contactbut{
+    background: linear-gradient(
+        to right, #0FA0CD, 
+         #933FFE );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    border-radius: 10px;
+    width: 156px;
+    height: 56px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+    position: relative;
+    margin-top: 13px;
+    left: 26rem;
+}

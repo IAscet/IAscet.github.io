@@ -1,0 +1,28 @@
+.pcust{
+    position: relative;
+    margin-top: 102rem;
+    left: 8rem;
+}
+
+.pcust2{
+    position: relative;
+    bottom: 23rem;
+    left: 22rem;
+}
+
+
+.pcust3{
+    position: relative;
+    bottom: 46rem;
+    left: 44rem;
+}
+
+.projtxt{
+    position: relative;
+    bottom: 76rem;
+    left: 26rem;
+    color: white;
+    font-size: 2.5rem;
+    font-family: 'Montsserat', sans-serif;
+}
+

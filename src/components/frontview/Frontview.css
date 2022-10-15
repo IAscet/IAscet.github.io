@@ -1,0 +1,29 @@
+.maintext{
+    font-size: 42px;
+    font-family: 'Inter', sans-serif;
+    color:  white;
+    left: 19rem;
+    position: relative;
+    display: flex;
+    margin-top: 123px;
+}
+.paratext{
+    font-family:'Roboto', sans-serif;;
+    position: relative;
+    margin-top: 12px;
+    font-size: 25px;
+    color: #898CA9;
+    left:  24rem;
+    display: flex;
+}
+
+
+.ptext{
+    color: white;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    left: 23rem;
+    bottom: 20px;
+}
+
+

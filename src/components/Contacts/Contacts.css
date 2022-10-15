@@ -1,0 +1,24 @@
+.cont{
+    color: white;
+    position: relative;
+    bottom: -179rem;
+    font-family: 'Roboto', sans-serif;
+    left:  30rem;
+}
+
+
+.gitico{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    bottom: -179rem;
+    left: 29rem;
+}
+
+.tg{
+    position: relative;
+    width: 75px;
+    height: 75px;
+    bottom: -178.1rem;
+    left: 30rem;
+}
